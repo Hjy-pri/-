@@ -92,7 +92,7 @@ python app.py
 ## 🧾 Data
 
 - 原始数据集： ` dataset/Superstore.csv `    
-- 用于分析的已清理数据集： ` cleaned_dataset/ cleaned_superstore.csv`  
+- 用于分析的已清洗数据集： ` cleaned_dataset/ cleaned_superstore.csv`  
 
 ---
 
